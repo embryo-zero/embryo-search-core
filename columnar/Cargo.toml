@@ -18,7 +18,7 @@ common = { version= "0.27", path = "../common", package = "tantivy-common" }
 tantivy-bitpacker = { version= "0.27", path = "../bitpacker/" }
 serde = "1.0.152"
 downcast-rs = "2.0.1"
-rand = "0.9"
+rand = "0.10"
 # OnPair16 string compression, used by the plain codec of Str and Bytes columns.
 onpair = "0.2.1"
 
