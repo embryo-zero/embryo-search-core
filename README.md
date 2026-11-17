@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Search Core
+
+**Embryo Search Core** is Embryo-Zero's fork of [tantivy](https://github.com/quickwit-oss/tantivy), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![Docs](https://docs.rs/tantivy/badge.svg)](https://docs.rs/crate/tantivy/)
 [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/quickwit-oss/tantivy/branch/main/graph/badge.svg)](https://codecov.io/gh/quickwit-oss/tantivy)
